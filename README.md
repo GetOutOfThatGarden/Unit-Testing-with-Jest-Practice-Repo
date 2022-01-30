@@ -48,6 +48,7 @@ There, I needed to adjust the jest script again, by adding '--coverage'.
 This '--coverage' flag makes the console display so much more infomation. I creates a 'coverage' folder in the project directory. Within that folder is a html file that allows you to easily see the test results in the nice clarity of a browser, as opposed to the terminal.
 
 From what I understand, this is what unit testing is. The --coverage flag allows you to test all units of the code, so you can pinpoint where the error is.
+Edit: I just found out about Cyprus, which is another testing tool, but it for total end to end (e2e) testing. I'll get around to learning that after I complete this next school assignment. https://www.cypress.io/
 
 Another interesting note is that if you want to test something stored by reference, as opposed to something stored by value, then you need to use '.toEqual(example)' instead.
 
