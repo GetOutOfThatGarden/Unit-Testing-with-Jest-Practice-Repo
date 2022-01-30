@@ -1,0 +1,27 @@
+{
+  "name": "unit-testing-with-jest-practice-repo",
+  "version": "1.0.0",
+  "description": "Practicing how to do unit testing with Jest library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetOutOfThatGarden/Unit-Testing-with-Jest-Practice-Repo.git"
+  },
+  "keywords": [
+    "Jest",
+    "Unit",
+    "Testing"
+  ],
+  "author": "Niall Harrington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GetOutOfThatGarden/Unit-Testing-with-Jest-Practice-Repo/issues"
+  },
+  "homepage": "https://github.com/GetOutOfThatGarden/Unit-Testing-with-Jest-Practice-Repo#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
